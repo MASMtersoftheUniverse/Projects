@@ -1,4 +1,4 @@
-# Project 1
+# Project 1: Developing Soft and Parallel Programming Skills Using Project-Based Learning
 
 Team Members
 1. Jay Bayless
